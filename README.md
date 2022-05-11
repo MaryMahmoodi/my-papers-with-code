@@ -1,7 +1,7 @@
 # my-papers-with-code
 
 
-* 1. A new method for accurate detection of movement intention from single channel EEG for online BCI
+* A new method for accurate detection of movement intention from single channel EEG for online BCI
 
 
 link for paper:
