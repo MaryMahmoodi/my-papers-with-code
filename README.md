@@ -1,6 +1,7 @@
 # my-papers-with-code
 
 
+
 * A new method for accurate detection of movement intention from single channel EEG for online BCI
 
 
@@ -10,6 +11,8 @@ https://www.sciencedirect.com/science/article/pii/S2666990021000264
 
 link for code (complete):
 https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector
+
+
 
 
 
