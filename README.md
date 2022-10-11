@@ -7,11 +7,11 @@
 
 
 
-link for paper:
+link for the paper:
 https://www.sciencedirect.com/science/article/pii/S2666990021000264
 
 
-link for code (complete):
+link for the code (complete):
 https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detector
 
 
@@ -28,9 +28,9 @@ https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detec
 
 
 
-link for paper:
+link for the paper:
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-IB_uMAAAAJ&citation_for_view=J-IB_uMAAAAJ:zYLM7Y9cAGgC
 
-link for code (spatial filter and lcmv beamformer code):
+link for the code (spatial filter and lcmv beamformer code):
 
 https://github.com/MaryMahmoodi/sensor-fusion-beamforming-inverse-problem-spatial-filter
