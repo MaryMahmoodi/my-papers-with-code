@@ -2,7 +2,7 @@
 
 
 
-** A new method for accurate detection of movement intention from single channel EEG for online BCI
+*  A new method for accurate detection of movement intention from single channel EEG for online BCI
 
 
 
@@ -33,7 +33,7 @@ https://github.com/MaryMahmoodi/Single-channel-EEG-motor-intention-imagery-detec
 
 
 
-** A robust beamforming approach for early detection of readiness potential with application to brain-computer interface systems
+*  A robust beamforming approach for early detection of readiness potential with application to brain-computer interface systems
 
 
 
